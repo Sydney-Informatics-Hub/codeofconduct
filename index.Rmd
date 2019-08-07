@@ -10,7 +10,7 @@ We are committed to creating a friendly and respectful place for learning, teach
 To make clear what is expected, everyone participating in our activities is required to conform to the Code of Conduct. This Code of Conduct applies to all spaces managed by SIH including, but not limited to, workshops, email lists, and online forums such as GitHub, Slack and Twitter. Workshop hosts are expected to assist with the enforcement of the Code of Conduct.
 
 
-
+***
 
 ## The Training Code of Conduct
 
@@ -53,7 +53,32 @@ Examples of unacceptable behavior by participants include:
 
 2. Participants may be asked to relocate to another seat, if possible, within the classroom.
 
-3. If a participant engages in behavior that violates this code of conduct, the organizers may warn the offender, ask them to leave the event or platform (without refund), and/or [formally appeal](Reporting.html) to the University of Sydney to investigate the Code of Conduct violation and impose appropriate sanctions. 
+3. If a participant engages in behavior that violates this code of conduct, the organizers may warn the offender, ask them to leave the event or platform (without refund), and/or [formally appeal](#reporting) to the University of Sydney to investigate the Code of Conduct violation and impose appropriate sanctions. 
+
+***
+
+## Incident Reporting Guidelines {#reporting}
+### Contact points, and initial reporting guidelines
+
+If someone violates the [Code of Conduct](index.html) during one of our events we ask that you report it to the trainer, event host or organiser. You can also send a report to SIH training about the incident by emailing [sih.training@sydney.edu.au](mailto:sih.training@sydney.edu.au). If a violation occurs in an online space outside of organised events, please email [sih.training@sydney.edu.au](mailto:sih.training@sydney.edu.au) about the incident. Our trainers will then work with you to determine whether a formal report to the University is necessary and prepare this report, as well as the correct process to follow.
+
+### Relevant University of Sydney policies and procedures
+
+The University of Sydney has several policies and procedures which we have used as the basis for our Code of Conduct. All attendees of our workshops are expected to follow these policies and procedures: 
+
+- Students are bound by the [Student Code of Conduct](http://sydney.edu.au/policies/showdoc.aspx?recnum=PDOC2011/215&RendNum=0) of which section 4 outlines personal conduct. 
+- Staff and affiliates are bound by the [Staff Code of Conduct](http://sydney.edu.au/policies/showdoc.aspx?recnum=PDOC2011/65&RendNum=0). 
+- **Both** staff and students are required to abide by the [Bullying, harassment and discrimination prevention policy](http://sydney.edu.au/policies/showdoc.aspx?recnum=PDOC2011/168&RendNum=0). 
+
+Staff matters are handled by University of Sydney Human Resources and student matters are handled by the Registrar. There may be circumstances which warrant both HR and Registrar involvement depending on the incident/matter.
+
+### Formal reporting guidelines
+    
+**Please ask the SIH trainer to assist you if you'd like to report an incident!**
+    
+Student misconduct should be reported to the [Registrar]( https://sydney.edu.au/students/student-misconduct/report-student-misconduct.html). Staff misconduct should be reported by following the guidelines [here](https://intranet.sydney.edu.au/employment/support/bullying_prevention/framing-written-allegation.html) using [Riskware](https://riskware.sydney.edu.au/) to submit the incident report. Alternatively, in line with [this policy](http://sydney.edu.au/policies/showdoc.aspx?recnum=PDOC2015/406&RendNum=0), a report can be made to [Workplace Relations](https://intranet.sydney.edu.au/employment/support/bullying_prevention.html).
+
+***
 
 ### Note
-This Code of Conduct is based on the [Carpentries](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html), and is a reframing of the [University of Sydney's Code of Conduct policies for staff and students](Reporting.html). If you'd like to suggest improvements please let us know at [sih.training@sydney.edu.au](mailto:sih.training@sydney.edu.au).
+This Code of Conduct is based on the [Carpentries](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html), and is a reframing of the University of Sydney's Code of Conduct policies for staff and students. If you'd like to suggest improvements please let us know at [sih.training@sydney.edu.au](mailto:sih.training@sydney.edu.au).
