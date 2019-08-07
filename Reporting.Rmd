@@ -2,7 +2,7 @@
 title: "Incident Reporting Guidelines"
 ---
 
-### Contact points
+### Contact points, and initial reporting guidelines
 
 If someone violates the [Code of Conduct](index.html) during one of our events we ask that you report it to the trainer, event host or organiser. You can also send a report to SIH training about the incident by emailing [sih.training@sydney.edu.au](mailto:sih.training@sydney.edu.au). If a violation occurs in an online space outside of organised events, please email [sih.training@sydney.edu.au](mailto:sih.training@sydney.edu.au) about the incident. Our trainers will then work with you to determine whether a formal report to the University is necessary and prepare this report, as well as the correct process to follow.
 
@@ -16,7 +16,7 @@ The University of Sydney has several policies and procedures which we have used 
 
 Staff matters are handled by University of Sydney Human Resources and student matters are handled by the Registrar. There may be circumstances which warrant both HR and Registrar involvement depending on the incident/matter.
 
-### Reporting guidelines
+### Formal reporting guidelines
     
 **Please ask the SIH trainer to assist you if you'd like to report an incident!**
     

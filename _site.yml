@@ -1,10 +1,11 @@
 name: "Sydney Informatics Hub Code of Conduct"
 output_dir: "docs"
-navbar:
-  left:
-    - title: "Home"
-      href: index.html
-    - title: "Reporting"
+navbar:  
+  title: "Home"
+  left:  # you can also use 'right'
+    - text: "CoC"
+      href: index.html  # don't link to the .Rmd file
+    - text: "Reporting"
       href: Reporting.html
 output:
   html_document:
